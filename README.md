@@ -48,7 +48,6 @@ plt.show()
 ```
 
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/20d614a4-d281-4708-93d3-b510d19cdb47)
 
 ## Result:
